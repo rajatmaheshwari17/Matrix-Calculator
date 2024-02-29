@@ -22,7 +22,7 @@ SparseMatrixCalc is a high-performance C program designed for efficient operatio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SparseMatrixCalc.git
+   git clone https://github.com/rajatmaheshwari17/SparseMatrixCalc.git
    ```
 2. Navigate to the project directory:
    ```bash
